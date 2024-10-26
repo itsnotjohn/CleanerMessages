@@ -10,7 +10,7 @@ O Cleaner é ativado por meio de uma reação de emoji. Quando um usuário reage
 
 1. **Reação ao Emoji:** O usuário reage à sua própria mensagem com um emoji configurado.
 2. **Ativação do Cleaner:** O Cleaner detecta a reação e começa a deletar todas as mensagens do usuário no canal.
-3. **Limpeza de Mensagens:** O Cleaner continua a deletar as mensagens até que todas sejam removidas ou até que o Cleaner seja interrompido.
+3. **Limpeza de Mensagens:** O Cleaner continua a deletar as mensagens até que todas sejam removidas ou até que seja interrompido.
 
 ## Dependencias
 
