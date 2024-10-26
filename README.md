@@ -1,5 +1,3 @@
-#Cleaner
-
 ## Descrição
 
 O **Message Cleaner** é um bot simples para Discord que permite a limpeza de mensagens em um canal. Este projeto foi desenvolvido com fins educacionais e serve como um exemplo prático de automação em um ambiente de chat.
