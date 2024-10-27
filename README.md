@@ -23,8 +23,8 @@ O Cleaner é ativado por meio de uma reação de emoji. Quando um usuário reage
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/message-cleaner.git
-   cd message-cleaner
+   git clone https://github.com/itsnotjohn/CleanerMessages.git
+   cd CleanerMessages
 
 2. Instale as dependências:
 `npm install`
